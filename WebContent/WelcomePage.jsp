@@ -8,8 +8,11 @@
 	</head>
 	
 	<body>
-		<p>Request a secure Admin page <a href="adminPage.html">here!</a></p>
-		<p>Request a secure User page <a href="userPage.html" >here!</a></p>
+	<h1>Welcome to our page!!</h1>
+	<br>
+	<p><a href="secureAdmin/adminPage.html">Admin Module</a></p>
+	<p><a href="secureUser/userPage.html" >User Module</a></p>
+
 	</body>
 </html>
 

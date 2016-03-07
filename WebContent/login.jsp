@@ -5,13 +5,22 @@
 <html>
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-		<title>Insert title here</title>
+		<title>Login</title>
 	</head>
 	<body>
+		<br>
+		<h1>Welcome to our page!</h1>
+		<h4>Please login into your account</h4>
+		<br><br>
+		<p><a href="" >Login using Facebook account.</a></p>
+		<br>
+		<br>
+		
 		<form action="j_security_check" method="post">
 			Username:<input type="text" name="j_username"><br><br>
 			Password:<input type="password" name="j_password">
 			<input type="submit" value="Login">
 		</form>
+		
 	</body>
 </html>
